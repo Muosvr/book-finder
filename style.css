@@ -1,0 +1,22 @@
+#main-container {
+    margin:auto;
+    text-align: center;
+}
+
+#result-container {
+    margin:auto;
+    width:80%;
+    margin-top: 20px;
+}
+
+img {
+    display:block;
+    margin:auto;
+    margin-top:5px;
+}
+
+li {
+    list-style-type:none;
+    margin-top:25px;
+}
+
