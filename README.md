@@ -1,1 +1,1 @@
-Book-finder app using Goodread APIs
+Book Finder App using Goodreads APIs
